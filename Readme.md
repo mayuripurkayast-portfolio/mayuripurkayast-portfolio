@@ -1,6 +1,6 @@
 <p align="center">
   p<img src="https://github.com/mayuripurkayast-portfolio/blob/main/banner.gif" alt="Mayuri Banner" width="100%"/>
-</p>
+<p>
 
 <h1 align="center">✨ Hey, I'm <strong>Mayuri Purkayast</strong> ✨</h1>
 <h3 align="center">Data Analyst | MIS Reporting | Business Insight Explorer</h3>
