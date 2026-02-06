@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ Hey, I'm <strong>Mayuri Purkayast</strong> ✨</h1>
-<h3 align="center">Data Analyst | Economist | Business Insight Explorer</h3>
+<h3 align="center">Data Analyst | MIS Reporting | Business Insight Explorer</h3>
 
 ---
 
