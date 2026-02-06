@@ -1,4 +1,3 @@
-<p></p>
 <p align="center">
   p<img src="https://github.com/mayuripurkayast-portfolio/blob/main/banner.gif" alt="Mayuri Banner" width="100%"/>
 </p>
