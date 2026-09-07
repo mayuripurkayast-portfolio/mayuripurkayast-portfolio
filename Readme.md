@@ -1,5 +1,5 @@
 <p align="center">
-  p<img
+  <img
   src="https://github.com/mayuripurkayast-portfolio/blob/main/banner.gif" alt="Mayuri Banner" width="100%"/>
 </p>
 
